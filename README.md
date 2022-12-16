@@ -15,7 +15,7 @@ The variables that are being used are:
 
 # Augmented Problem
 
-The code in the GitHub file called "augmented_problem" expandes on the base model by optimising for profit by taking into account all the parameters, and adding a new ones like solar panels for an extra electricity source. This means that the changing weather, electricity price fluctuations, dam ramp up and ramp down constraints, are all taken into account.  
+The code in the GitHub file called "augmented_problem" expandes on the base model by optimising for profit by taking into account all the parameters, and adding a new one like solar panels for an extra electricity source. This means that the changing weather, electricity price fluctuations, dam ramp up and ramp down constraints, are all taken into account.  
 
 The new variable that was added:
 - w_t = amount of water pumped back up into the resivoir 
